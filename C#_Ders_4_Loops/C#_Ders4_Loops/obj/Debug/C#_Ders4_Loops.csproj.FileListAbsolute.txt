@@ -1,0 +1,7 @@
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\bin\Debug\C#_Ders4_Loops.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\bin\Debug\C#_Ders4_Loops.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\bin\Debug\C#_Ders4_Loops.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\obj\Debug\C#_Ders4_Loops.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\obj\Debug\C#_Ders4_Loops.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\obj\Debug\C#_Ders4_Loops.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Coding\2025_C#\C#_Ders4_Loops\C#_Ders4_Loops\obj\Debug\C#_Ders4_Loops.pdb
